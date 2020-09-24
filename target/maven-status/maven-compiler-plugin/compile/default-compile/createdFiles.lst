@@ -1,0 +1,5 @@
+org\example\DgraphClientApplication.class
+org\example\HttpClientApplication.class
+org\example\DgraphClientApplication$People.class
+org\example\GraphQlClientApplication.class
+org\example\DgraphClientApplication$Person.class
